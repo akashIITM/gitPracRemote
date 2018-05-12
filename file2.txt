@@ -1,2 +1,6 @@
 file1 version2
+<<<<<<< master
 addition1-hello
+=======
+addition2-bye
+>>>>>>> master
